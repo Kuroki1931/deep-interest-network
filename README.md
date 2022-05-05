@@ -4,4 +4,4 @@
 https://pompom168.hatenablog.com/entry/2019/06/30/004050
 
 # ネットワーク
-![画像](https://github.com/Kuroki1931/deep-interest-network/tree/master/picture/S__10952715.jpg)
+![画像](/picture/S__10952715.jpg)
